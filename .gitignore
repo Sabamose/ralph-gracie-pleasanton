@@ -1,0 +1,16 @@
+# Generated output and local dependencies
+/site/
+/node_modules/
+
+# Deployment state and credentials
+/.vercel/
+.env
+.env.*
+!.env.example
+
+# Local migration captures, editor state, and OS metadata
+/import/
+/.claude/
+/.codex/
+.DS_Store
+*.log
